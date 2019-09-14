@@ -1,0 +1,17 @@
+to demo desktop app:
+	1. cd to /Apache24/bin
+	2. type ./httpd.exe
+	3. the apache web server is now running
+	4. password is root, username is root
+if doesn't work
+	5. open mysql client
+	6. make sure mysql server is running
+---------------------------------------------
+to demo jsp:
+	1.make sure tomcat is running
+	2. goto localhost:8080/test.jsp
+
+if doesn't work
+	make sure hpttd is running
+	make sure mysql server is running
+	make sure 	
